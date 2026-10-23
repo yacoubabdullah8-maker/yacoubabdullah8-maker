@@ -22,7 +22,7 @@ I'm studying everything related to networking and documenting my learning journe
 - 🔐 Passion: Cybersecurity & technology
 - 🌱 Currently learning: Networking, Linux systems, Python and C++
 - 📍 Location: Nouakchott, Mauritania
-- 🌐 Languages: Arabic
+- 🌐 Languages: Arabic,English
 
 ---
 
